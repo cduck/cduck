@@ -14,10 +14,13 @@ As I make cool projects and tools that could be useful to others, I package, doc
 - [InteractiveAudio.jl](https://github.com/cduck/InteractiveAudio.jl) — Generate and play audio while dynamically changing the underlying code in real time
 
 #### Quantum Computing
-- [block_sphere](https://github.com/cduck/bloch_sphere) — Visualize the [qubit](https://en.wikipedia.org/wiki/Qubit) [Bloch sphere](https://en.wikipedia.org/wiki/Bloch_sphere)
-- [feynman_path](https://github.com/cduck/feynman_path) — Visualize the [Feynman path integral](https://en.wikipedia.org/wiki/Path_integral_formulation) of quantum circuits 
 - [ChpSim.jl](https://github.com/cduck/ChpSim.jl) — Efficiently simulate quantum stabilizer (Clifford) circuits 
 - [VLQ](https://github.com/cduck/VLQ) — Simple and fast [quantum error correction](https://en.wikipedia.org/wiki/Quantum_error_correction) architecture simulator
 - Contributor to [Cirq](https://github.com/quantumlib/Cirq) — Create, edit, and invoke Noisy Intermediate Scale Quantum (NISQ) circuits
+
+#### Education
+- [block_sphere](https://github.com/cduck/bloch_sphere) — Visualize the [qubit](https://en.wikipedia.org/wiki/Qubit) [Bloch sphere](https://en.wikipedia.org/wiki/Bloch_sphere) for intuition about quantum gates
+- [feynman_path](https://github.com/cduck/feynman_path) — Visualize the [Feynman path sum](https://en.wikipedia.org/wiki/Path_integral_formulation) of quantum circuits for intuition about quantum interference
+- [edx_notebook_grader](https://github.com/cduck/edx_notebook_grader) — Automatic grader for [EdX course](https://www.edx.org/professional-certificate/uchicagox-quantum-computer-systems-design) Jupyter notebooks
 
 and [many other projects...](https://github.com/cduck?tab=repositories)
