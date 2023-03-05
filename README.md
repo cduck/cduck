@@ -6,7 +6,7 @@ I open source my projects and tools for other to use in their artwork, education
 ### Featured Python and Julia packages
 
 #### Art
-- [drawSvg](https://github.com/cduck/drawSvg) — Programmatically generate vector SVG drawings, animations, and interactive Jupyter widgets
+- [drawsvg](https://github.com/cduck/drawsvg) — Programmatically generate vector SVG drawings, animations, and interactive Jupyter widgets
 - [hyperbolic](https://github.com/cduck/hyperbolic) — Construct, draw, and manipulate [hyperbolic geometry](https://en.wikipedia.org/wiki/Hyperbolic_geometry)
 - [latextools](https://github.com/cduck/latextools) — Conveniently build, render, and convert Latex documents and figures
 - [alime](https://github.com/cduck/alime) — Fancy animated anti-bot email obfuscation for your website
